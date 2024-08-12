@@ -14,3 +14,9 @@ const course={
 console.log(course)
 const {nameg:kl}=course
 console.log(kl)
+
+function calculatesum(val1,val2,...num1)
+{
+    return num1;
+}
+console.log(calculatesum(100,200,900,19909,909839))
